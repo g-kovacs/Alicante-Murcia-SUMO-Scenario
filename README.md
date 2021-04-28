@@ -1,6 +1,6 @@
 # Calibrated Alicante-Murcia Freeway SUMO Scenario
 
-Contacts:  Juan Jesus Gonzalez [j.gonzalezd@umh.es], Javier Gozalvez [j.gozalvez@umh.es]
+Contacts:  Juan Jesus Gonzalez [jj.gonzalezdelicado@gmail.com], Javier Gozalvez [j.gozalvez@umh.es], Jesus Mena [suso.mena@gmail.com] and Miguel Sepulcre [msepulcre@umh.es]
 
 This scenario is designed for SUMO (Simulator of Urban MObility), version 0.32.0.
 
