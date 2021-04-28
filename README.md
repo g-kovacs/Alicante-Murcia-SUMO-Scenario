@@ -51,11 +51,6 @@ To run the scenario, place all the files above in the same directory (common fil
 sumo iteration_XXX.sumocfg
 ```
 
-## References
-
-(1) Cadyts – Calibration of Dynamic Traffic Simulations [https://people.kth.se/~gunnarfl/cadyts.html]
-
-(2) Under development
 
 ## License
 
