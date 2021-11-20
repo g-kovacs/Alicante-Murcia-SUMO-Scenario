@@ -2,9 +2,11 @@
 
 This code is a large-scale and high-accuracy traffic simulation scenario for SUMO (Simulator of Urban MObility), version 0.32.0 described in the following paper:
 
-    Juan Jesus Gonzalez-Delicado, Javier Gozalvez, Jesús Mena-Oreja, Miguel Sepulcre
-    "Alicante-Murcia Freeway Scenario: A High-Accuracy and Large-Scale  Traffic Simulation Scenario generated using a Novel Traffic Demand Calibration Method in SUMO",
-    Arxiv 2021
+    Juan Jesus Gonzalez-Delicado, Javier Gozalvez, Jesús Mena-Oreja, Miguel Sepulcre, Baldomero Coll-Perales
+    "Alicante-Murcia Freeway Scenario: A High-Accuracy and Large-Scale  Traffic Simulation Scenario 
+    generated using a Novel Traffic Demand Calibration Method in SUMO",
+    IEEE Access, November 2021. DOI: 10.1109/ACCESS.2021.3126269
+    https://ieeexplore.ieee.org/abstract/document/9606704
 
 In order to comply with our sponsor guidelines, we would appreciate if any publication using this scenario references the above-mentioned publication.
 
@@ -15,6 +17,7 @@ Contacts:
 * Javier Gozalvez [j.gozalvez@umh.es]
 * Jesus Mena [suso.mena@gmail.com]
 * Miguel Sepulcre [msepulcre@umh.es]
+* Baldomero Coll-Perales [bcoll@umh.es]
 
 
 ## Features
