@@ -63,4 +63,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 This work was supported in part by the Spanish Dirección General de Tráfico under Grant SPIP2017-02204, in part by the Spanish Ministry of Science and
 Innovation (MCI), the State Research Agency (AEI), and the European Regional Development Fund (FEDER), under Projects TEC2017-88612-R and
-PID2020-115576RB-I00, and in part by Generalitat Valenciana under Project GV/2021/044.
+PID2020-115576RB-I00, and in part by Generalitat Valenciana under Project GV/2021/044
