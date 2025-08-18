@@ -3,9 +3,9 @@
 <configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
 
     <input>
-        <net-file value="Alicante-Murcia_MW_LIMPIO_GR_CRECIENTE_beforeApril16.net.xml"/>
+        <net-file value="../Alicante-Murcia_MW_LIMPIO_GR_CRECIENTE_beforeApril16.net.xml"/>
         <route-files value="altRoutesOutput_638.cal.xml"/>
-        <additional-files value="vtypes.xml,rerouters.xml,detectores_Ali-Mur_CREC_bAp16_Ord_567OK_best82_MIX.xml,detectores_Ali-Mur_CREC_bAp16_Ord_567OK_best82_LIGEROS.xml,detectores_Ali-Mur_CREC_bAp16_Ord_567OK_best82_PESADOS.xml"/>
+        <additional-files value="../vtypes.xml,../rerouters.xml,../detectores_Ali-Mur_CREC_bAp16_Ord_567OK_best82_MIX.xml,../detectores_Ali-Mur_CREC_bAp16_Ord_567OK_best82_LIGEROS.xml,../detectores_Ali-Mur_CREC_bAp16_Ord_567OK_best82_PESADOS.xml"/>
     </input>
 
     <time>
