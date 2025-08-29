@@ -22,7 +22,7 @@
     </processing>
 
     <report>
-        <verbose value="true"/>
+        <verbose value="false"/>
         <no-warnings value="true"/>
         <log value="iteration_733.sumo.log"/>
         <no-step-log value="true"/>
